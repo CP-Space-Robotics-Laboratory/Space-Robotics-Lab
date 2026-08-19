@@ -7,7 +7,7 @@ The Space Robotics Laboratory provides a teaching and research space that explor
 
 Lab Director: Dr. Stephen Thiam-Choy Kwok-Choon
 
-# Projects
+# Research Projects
 
 
 
