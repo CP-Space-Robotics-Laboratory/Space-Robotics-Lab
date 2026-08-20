@@ -9,9 +9,9 @@ Lab Director: Dr. Stephen Thiam-Choy Kwok-Choon
 
 # Research Projects
 
-<center>
-<img src="images/Space_Robotics_Lab_picture.png" alt="Space Robotics Laboratory" style="width:50%; height:auto;">
-</center>
+<p align="center">
+<img src="images/Space_Robotics_Lab_picture.png" alt="Space Robotics Laboratory" style="width:50%; height:auto; ">
+
 
 # Completed Masters Thesis
 
