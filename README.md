@@ -12,6 +12,15 @@ Lab Director: Dr. Stephen Thiam-Choy Kwok-Choon
 <p align="center">
 <img src="images/Space_Robotics_Lab_picture.png" alt="Space Robotics Laboratory" style="width:50%; height:auto; ">
 
+# Conference Publications
+
+1. “Design and Development of a Thrust Vectoring Floating Spacecraft Simulator” - Connell James Crawford, Gerelle De Castro Samaniego, Angel Cristobal Rodriguez Hernandez, Stephen Thiam-Choy Kwok-Choon, AIAA Student Conference Region VI, San Luis Obispo, March 2026 (https://doi.org/10.2514/6.2026-112371 ).
+2. “A Prototype Low-Cost Hybrid-Actuated Mobile Spherical Terrain Exploration Rover” - Winnie Gao, Youyou Luo, Drew Schlauch, Stephen T. Kwok-Choon, IEEE Big Sky Technical Conference, Big Sky, Montana, March 2026 (https://doi.org/10.1109/AERO66936.2026.11520138 )
+3. “Development of a 3 Degree of Freedom Manipulator for Use on a Planar Microgravity Testbed” - Jackson W. Cordova, Stephen T. Kwok-Choon, AIAA Student Conference Region VI, San Luis Obispo, March 2026 (https://doi.org/10.2514/6.2026-112374 )
+4. “SpaceOTTER - Space Optically Tracked Testbed for Experiments and Research” - Alexander DeBartolo, Allegra Ciarlantini, Stephen Kwok-Choon, AIAA Student Conference Region VI, San Luis Obispo, March 2026 (https://doi.org/10.2514/6.2026-114590 )
+5. “OpenMV RT1062 Camera AprilTag Detection Parameterization for Camera Vision Applications” -  David T. Forbes, Ezekiel Casuga, and Stephen Thiam-Choy Kwok-Choon, AIAA Student Conference Region VI, San Luis Obispo, March 2026 (https://doi.org/10.2514/6.2026-108977 )
+
+
 
 # Completed Masters Thesis
 
